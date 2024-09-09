@@ -1,0 +1,227 @@
+{
+  "translation": {
+    "onboarding": {
+      "title": "Criar conta",
+      "subtitle": "Dados pessoais",
+      "welcome": {
+        "title": "Bem-vindo(a) {{name}}!",
+        "subtitle": "Agora basta desfrutar dos eventos e reuniões que a Igreja lhe oferece.",
+        "created": "Sua conta foi criada com sucesso"
+      },
+      "form": {
+        "document": {
+          "label": "CPF",
+          "placeholder": "___.___.___-__"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Insira seu email"
+        },
+        "phone": {
+          "label": "Telefone",
+          "placeholder": "(**) *****-****"
+        },
+        "name": {
+          "label": "Nome completo",
+          "placeholder": "Insira seu nome completo"
+        },
+        "password": {
+          "label": "Senha",
+          "placeholder": "Crie uma senha"
+        },
+        "confirmPassword": {
+          "label": "Confirmar senha",
+          "placeholder": "Confirme sua senha"
+        }
+      },
+      "button": {
+        "back": "Voltar",
+        "next": "Próximo",
+        "start": "Começar"
+      }
+    },
+    "login": {
+      "title": "Igreja Nova Jerusalém",
+      "unit": "Unidade Vila Marcondes",
+      "message": {
+        "normal": {
+          "first": "Somos uma ",
+          "second": " em adoração e obediência ",
+          "third": " para edificação da Igreja e "
+        },
+        "bold": {
+          "first": "família de discípulos,",
+          "second": "a Jesus Cristo,",
+          "third": "testemunho do Evangelho"
+        }
+      },
+      "form": {
+        "title": "Entrar",
+        "email": {
+          "label": "Email",
+          "placeholder": "Insira seu email"
+        },
+        "password": {
+          "label": "Senha",
+          "placeholder": "Insira sua senha"
+        },
+        "forgotPassword": "Esqueceu sua senha?",
+        "divider": "Ainda não tem conta?",
+        "button": {
+          "submit": "Entrar",
+          "onboarding": "Criar conta"
+        }
+      }
+    },
+    "advertise": {
+      "title": "Cadastrar aviso",
+      "form": {
+        "name": {
+          "label": "Nome",
+          "placeholder": "Insira o nome do aviso"
+        },
+        "description": {
+          "label": "Descrição",
+          "placeholder": "Digite a descrição do aviso"
+        },
+        "startDate": {
+          "label": "Data de início",
+          "placeholder": "__-__-__ __:__"
+        },
+        "endDate": {
+          "label": "Data de término",
+          "placeholder": "__-__-__ __:__"
+        },
+        "button": {
+          "submit": "Cadastrar"
+        },
+        "file": {
+          "label": "Imagem"
+        }
+      }
+    },
+    "expenditure": {
+      "title": "Cadastrar despesa",
+      "form": {
+        "description": {
+          "label": "Descrição",
+          "placeholder": "Digite a descrição da despesa (opcional)"
+        },
+        "value": {
+          "label": "Valor",
+          "placeholder": "Digite o valor da despesa"
+        },
+        "installments": {
+          "label": "Parcelado?"
+        },
+        "parcels": {
+          "label": "Parcelas",
+          "placeholder": "Quantidade de parcelas"
+        },
+        "fees": {
+          "label": "Juros",
+          "placeholder": "Digite a porcentagem do juros"
+        },
+        "dueDate": {
+          "label": "Data de vencimento",
+          "placeholder": "Vencimento da despesa"
+        },
+        "payedDate": {
+          "label": "Data do pagamento",
+          "placeholder": "Data do pagamento"
+        },
+        "expenditureType": {
+          "label": "Tipo de despesa"
+        }
+      }
+    },
+    "expenditureType": {
+      "title": "Cadastro de tipo de despesa",
+      "form": {
+        "name": {
+          "label": "Nome",
+          "placeholder": "Nome do tipo de despesa"
+        }
+      }
+    },
+    "profile": {
+      "tabs": {
+        "personalData": "Dados pessoais",
+        "meetings": "Reuniões",
+        "events": "Eventos",
+        "notifications": "Notificações"
+      },
+      "personalData": {
+        "info": {
+          "document": "CPF",
+          "name": "Nome",
+          "email": "Email",
+          "phone": "Telefone"
+        },
+        "button": {
+          "change": "Alterar dados",
+          "delete": "Excluir conta"
+        },
+        "form": {
+          "button": {
+            "cancel": "Cancelar",
+            "confirm": "Confirmar"
+          }
+        },
+        "delete": {
+          "title": "Excluir conta",
+          "message": "Você tem certeza que deseja excluir sua conta INJ? Todos seus dados serão *perdidos,* juntamente de suas inscrições em *Eventos e Reuniões* que ainda não foram realizados!",
+          "button": {
+            "back": "Voltar",
+            "delete": "Excluir"
+          }
+        }
+      },
+      "events": {
+        "addButton": "Adicionar evento",
+        "info": {
+          "name": {
+            "label": "Nome *",
+            "placeholder": "Digite o nome do evento"
+          },
+          "capacity": {
+            "label": "Vagas",
+            "placeholder": "Digite o número de vagas"
+          },
+          "description": {
+            "label": "Descrição",
+            "placeholder": "Digite uma descrição para o evento"
+          },
+          "startDate": {
+            "label": "Data de início",
+            "placeholder": "Selecione a data de início"
+          },
+          "endDate": {
+            "label": "Data de término",
+            "placeholder": "Selecione a data de término"
+          }
+        }
+      }
+    },
+    "income": {
+      "title": "Cadastrar receita",
+      "form": {
+        "description": {
+          "label": "Descrição",
+          "placeholder": "Digite a descrição da receita (opcional)"
+        },
+        "amount": {
+          "label": "Valor",
+          "placeholder": "Digite o valor da despesa"
+        },
+        "date": {
+          "label": "Data",
+          "placeholder": "Data de recebimento da receita"
+        },
+        "type": {
+          "label": "Tipo"
+        }
+      }
+    }
+  }
+}

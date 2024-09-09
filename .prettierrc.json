@@ -1,0 +1,9 @@
+{
+  "@typescript-eslint/consistent-type-imports": "off",
+  "@typescript-eslint/strict-boolean-expressions": "off",
+  "@typescript-eslint/ban-ts-comment": "off",
+  "@typescript-eslint/non-nullable-type-assertion-style": "off",
+  "@typescript-eslint/no-misused-promises": "off",
+  "spaced-comment": "off",
+  "@typescript-eslint/no-unused-vars": "off"
+}
